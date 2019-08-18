@@ -1,7 +1,7 @@
 #lang racket
 (require 2htdp/batch-io)
 (require "decision_functions.rkt")
-
+;;;Don't give someone mushroom
 ;input dataset
 (provide toytrain)
 (define toytrain "../data/toy_train.csv")
